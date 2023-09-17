@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0-android33.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = PrototypeA
+build_property.ProjectDir = C:\BuildApp\PrototypeA\PrototypeA\
+
+[C:/BuildApp/PrototypeA/PrototypeA/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/ChemPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.ChemPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ChemPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ChemPage.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/MathPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.MathPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MathPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MathPage.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/Page2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.Page2.xaml
+build_metadata.AdditionalFiles.TargetPath = Page2.xaml
+build_metadata.AdditionalFiles.RelativePath = Page2.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/Page3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.Page3.xaml
+build_metadata.AdditionalFiles.TargetPath = Page3.xaml
+build_metadata.AdditionalFiles.RelativePath = Page3.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/Page4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.Page4.xaml
+build_metadata.AdditionalFiles.TargetPath = Page4.xaml
+build_metadata.AdditionalFiles.RelativePath = Page4.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/PageBio.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.PageBio.xaml
+build_metadata.AdditionalFiles.TargetPath = PageBio.xaml
+build_metadata.AdditionalFiles.RelativePath = PageBio.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/PageMusic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.PageMusic.xaml
+build_metadata.AdditionalFiles.TargetPath = PageMusic.xaml
+build_metadata.AdditionalFiles.RelativePath = PageMusic.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/PageXO.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.PageXO.xaml
+build_metadata.AdditionalFiles.TargetPath = PageXO.xaml
+build_metadata.AdditionalFiles.RelativePath = PageXO.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/PdfPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.PdfPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PdfPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PdfPage.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/PhyPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.PhyPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PhyPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PhyPage.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/BuildApp/PrototypeA/PrototypeA/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrototypeA.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

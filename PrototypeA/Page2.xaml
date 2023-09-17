@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrototypeA.Page2"
+             Title="Page2"
+             BackgroundColor="Gray">
+    <StackLayout
+        Spacing="50"
+        Orientation="Horizontal"
+        HorizontalOptions="Center">
+        <Button
+            Text="Game"
+            Clicked="NavigateToGameXO"
+            WidthRequest="210" 
+            HeightRequest="150"
+            FontSize="30"
+            BackgroundColor="White"
+            TextColor="#27ac1f"/>
+        <Button
+            Text="Music"
+            Clicked="NavigateToMusic"
+            WidthRequest="210" 
+            HeightRequest="150"
+            FontSize="30"
+            BackgroundColor="White"
+            TextColor="#27ac1f"/>
+
+    </StackLayout>
+</ContentPage>

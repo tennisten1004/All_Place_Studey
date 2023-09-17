@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrototypeA.MainPage"
+             BackgroundColor="Gray">
+
+    <StackLayout>
+        <VerticalStackLayout
+         Spacing="35"
+         Padding="10,0"
+         VerticalOptions="Center">
+            <StackLayout>
+                <Frame
+                    BackgroundColor="White"
+                    HorizontalOptions="Center">
+                    <Label 
+                        x:Name="TimeLabel" 
+                        FontSize="20" 
+                        HorizontalOptions="CenterAndExpand" 
+                        VerticalOptions="CenterAndExpand" 
+                        TextColor="Black"/>
+                </Frame>
+            </StackLayout>
+            
+            <StackLayout 
+             Orientation="Horizontal"
+             Spacing="4"
+             HorizontalOptions="Center"
+             Padding="0,500">
+                <Button 
+                    Text="Relax" 
+                    Clicked="NavigateToPage2"
+                    WidthRequest="110" 
+                    HeightRequest="60"
+                    FontSize="20"
+                    FontAutoScalingEnabled="True"
+                    BackgroundColor="White"
+                    TextColor="#27ac1f"/>
+                <Button
+                    Text="Study" 
+                    Clicked="NavigateToPage3"
+                    WidthRequest="155" 
+                    HeightRequest="60"
+                    FontSize="20"
+                    FontAutoScalingEnabled="True"
+                    BackgroundColor="#27ac1f"
+                    TextColor="White"/>
+                <Button
+                    Text="Summary" 
+                    Clicked="NavigateToPage4"
+                    WidthRequest="110" 
+                    HeightRequest="60"
+                    FontSize="18"
+                    FontAutoScalingEnabled="True"
+                    BackgroundColor="White"
+                    TextColor="#27ac1f"/>
+            </StackLayout>
+
+
+        </VerticalStackLayout>
+    </StackLayout>
+</ContentPage>

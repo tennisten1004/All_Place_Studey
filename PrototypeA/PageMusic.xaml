@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrototypeA.PageMusic"
+             Title="PageMusic"
+             BackgroundColor="Gray">
+    <VerticalStackLayout
+        Spacing="10">
+        <Button
+            Text="'เธอทั้งนั้น'"
+            FontSize="48"
+            Clicked="NavigateTo1Music"
+            HeightRequest="100"
+            WidthRequest="400"
+            BackgroundColor="White"
+            TextColor="Green"/>
+        <Button
+            Text="'ข้างกัน'"
+            FontSize="48"
+            Clicked="NavigateTo2Music"
+            HeightRequest="100"
+            WidthRequest="400"
+            BackgroundColor="White"
+            TextColor="Green"/>
+        <Button
+            Text="'อยู่ต่อเลยได้ไหม'"
+            FontSize="48"
+            Clicked="NavigateTo3Music"
+            HeightRequest="100"
+            WidthRequest="400"
+            BackgroundColor="White"
+            TextColor="Green"/>
+    </VerticalStackLayout>
+</ContentPage>
+    

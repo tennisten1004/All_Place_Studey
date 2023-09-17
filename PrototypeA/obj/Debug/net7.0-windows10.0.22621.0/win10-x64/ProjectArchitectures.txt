@@ -1,0 +1,1 @@
+C:\BuildApp\PrototypeA\PrototypeA\PrototypeA.csproj;x64

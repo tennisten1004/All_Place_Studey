@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkid="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="PrototypeA.Pages.Activity.MusicPages.Page3Music"
+             Title="Page3Music">
+    <toolkid:MediaElement   
+        x:Name="mediaElement"
+        Source="https://cdn.discordapp.com/attachments/979698532871184396/1152615962428837929/716567963.535391.mp4"
+        ShouldAutoPlay="True"
+        ShouldKeepScreenOn="True"/>
+</ContentPage>

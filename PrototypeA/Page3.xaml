@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrototypeA.Page3"
+             Title="Page3"
+             BackgroundColor="Gray">
+    <StackLayout
+        Spacing="5">
+        <Button
+            Text="Timetable"
+            Clicked="NavigateToTimetable"
+            WidthRequest="410"
+            HeightRequest="100"
+            FontSize="48"
+            BackgroundColor="White"
+            TextColor="#27ac1f"/>
+        <Button
+            Text="Note"
+            Clicked="NavigateToNote"
+            WidthRequest="410"
+            HeightRequest="100"
+            FontSize="48"
+            BackgroundColor="White"
+            TextColor="#27ac1f"/>
+    </StackLayout>
+</ContentPage>
